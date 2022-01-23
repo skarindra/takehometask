@@ -1,0 +1,20 @@
+2022-01-24 01:07:30 INFO - Starting Appium Server !
+2022-01-24 01:07:31 INFO - APPIUM RUN IN : http://127.0.0.1:21201/wd/hub
+2022-01-24 01:07:50 INFO - Running scenario : Input expense
+2022-01-24 01:07:50 INFO - ----------------Start of Scenario----------------
+2022-01-24 01:08:10 INFO - income = $1,000
+2022-01-24 01:08:10 INFO - raw income = 1000
+2022-01-24 01:08:19 INFO - expense = $100
+2022-01-24 01:08:19 INFO - raw expense = 100
+2022-01-24 01:08:19 INFO - Scenario 'Input expense' with status passed
+2022-01-24 01:08:19 INFO - -----------------End of Scenario-----------------
+2022-01-24 01:08:20 INFO - Starting Appium Server !
+2022-01-24 01:08:22 INFO - APPIUM RUN IN : http://127.0.0.1:20853/wd/hub
+2022-01-24 01:08:39 INFO - Running scenario : Input income
+2022-01-24 01:08:39 INFO - ----------------Start of Scenario----------------
+2022-01-24 01:09:00 INFO - income = $1,000
+2022-01-24 01:09:00 INFO - raw income = 1000
+2022-01-24 01:09:00 INFO - Scenario 'Input income' with status passed
+2022-01-24 01:09:00 INFO - -----------------End of Scenario-----------------
+2022-01-24 01:09:00 INFO - Stopping appium server!
+2022-01-24 01:09:00 INFO - Stopping appium server!
